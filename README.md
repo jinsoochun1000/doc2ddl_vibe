@@ -110,3 +110,13 @@ doc2ddl_vibe/
     ├── README.md
     └── schema.sql
 ```
+
+### Ai Model Version 
+- claude : vsc - Opus 5.5
+- claude_app : Sonnet 5.5
+- claude_app_opus55 : Opus 5.5
+- codex : vsc - GPT6-Astra 
+- codex_app : GPT6-Astra
+- copilot : 
+- cursor : Grok 4.7
+- gemini : gemini 3.8 flash
