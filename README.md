@@ -1,4 +1,7 @@
-# Word 이력서(DOCX) 기반 Oracle DDL 생성 모델별 비교 요약
+
+# Doc 2 DDL 변환
+
+### Word 이력서(DOCX) 기반 Oracle DDL 생성 모델별 비교 요약
 
 본 저장소는 `이력서.docx`(개인이력카드 및 SKILL INVENTORY) 비정형 문서를 분석하여 **Oracle DBMS**용 DDL 스키마와 데이터 적재 스크립트를 작성한 8개 AI 코딩 모델/어시스턴트의 결과물을 비교·정리한 프로젝트입니다.
 
